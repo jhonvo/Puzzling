@@ -60,7 +60,7 @@ public class PuzzleJava{
         return y;
     }
 
-    // Write a method that takes an array and and mixes up all the values in a pseudo-random way.  NOT DSURE IF THIS IS WORKING APRROPIATELY
+    // Write a method that takes an array and and mixes up all the values in a pseudo-random way.  NOT SURE IF THIS IS WORKING APRROPIATELY
 
     public ArrayList<Integer> shuffleArray(int[] array){
         ArrayList <Integer> y = new ArrayList <Integer> ();
